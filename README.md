@@ -1,2 +1,2 @@
 # api
-#This is about the data injection through twitter api and web scraping
+#This is about the data injection through beautiful soup api and web scraping
